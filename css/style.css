@@ -1,0 +1,92 @@
+.SiteHead{
+    
+    background-color:darkgoldenrod;
+}
+
+.SiteHeadElements{
+    
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+
+.SiteHeadElement1{
+    display: inline-block;
+    
+}
+
+.SiteHeadElement2{
+    display:inline-block;
+    
+    margin: auto;
+}
+
+.Tracks{
+    
+    background-color: gold;
+   
+}
+.TracksElements{
+    
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+    
+    
+
+}
+.TrackElement{
+    
+    display: inline-block;
+    margin: 5px;
+    background-color: palegoldenrod;
+}
+
+.About{
+    
+    background-color: olive;
+}
+
+.AboutElements{
+    
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.AboutElement1{
+    display: block;
+    margin: auto;
+}
+
+.AboutElement2{
+    display: inline-block;
+
+}
+
+.AboutElement3{
+    margin: auto;
+    display: inline-block;
+
+}
+.SocialLinks{
+    background-color: darkgoldenrod;
+
+}
+.SocialLinksElements{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+
+
+
+}
+.SocialLinksElement1{
+    display: block;
+}
+
+
+
+
